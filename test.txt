@@ -10,3 +10,5 @@ THis file has been changed third time
 This file has been changed on development
 
 This file has been changed on development second time.
+
+This file has been changed on master first time.
